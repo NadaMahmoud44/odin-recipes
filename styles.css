@@ -1,0 +1,40 @@
+*{
+    background-color:#E1F5C4;
+}
+h1{
+    color: #FF4E50;
+    font-family: "Lucida Console", Garamond, sans-serif;
+    font-size: 50px;
+}
+h2,h3{
+    color:#FF4E50;
+    font-size: 35;
+}
+.list.main{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: darkslateblue;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+
+.description{
+    color: rgb(66, 85, 105);
+    font-size: 20px;
+}
+ul {
+    font-size: 20px;
+    font-weight: 30;
+    color: rgb(66, 85, 105);
+}
+ol{
+    font-size: 20px;
+    font-weight: 30;
+    color: rgb(66, 85, 105);
+}
+img{
+    width:350px;
+    height: auto;
+
+}
