@@ -5,10 +5,16 @@ h1{
     color: #FF4E50;
     font-family: "Lucida Console", Garamond, sans-serif;
     font-size: 50px;
+    text-align: center;
+    background-color: beige;
+    margin-bottom: 10px;
+    
 }
 h2,h3{
     color:#FF4E50;
-    font-size: 35;
+    font-size: 45;
+    text-align: center;
+    margin-bottom: 10px;
 }
 .list.main{
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -20,21 +26,37 @@ a{
 }
 
 .description{
+    max-width: 600px;
+    text-align: center;
     color: rgb(66, 85, 105);
     font-size: 20px;
+    margin: 0 auto;
 }
 ul {
     font-size: 20px;
     font-weight: 30;
     color: rgb(66, 85, 105);
+    margin: 0 auto;
+    text-align: center;
+    list-style: none;
+    
+}
+ul.list.main li.main {
+    margin: 10px;
 }
 ol{
     font-size: 20px;
     font-weight: 30;
     color: rgb(66, 85, 105);
+    max-width: 600px;
+    text-align: center;
+    margin: 0 auto;
 }
+
 img{
     width:350px;
     height: auto;
+    margin: 0 auto;
+    display: block;
 
 }
